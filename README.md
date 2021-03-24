@@ -1,2 +1,0 @@
-# dogecoinchallenge
-Platzi- Challenge
